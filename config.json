@@ -4,6 +4,6 @@
 	"name": "Fotneet",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register MR_MR121 MR_MR121",
-	"login-cmd":"/login MR_MR121"
+	"register-cmd":"/register 24/7_Online 24/7_Online",
+	"login-cmd":"/24/7_Online"
 }
